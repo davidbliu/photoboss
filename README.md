@@ -50,4 +50,4 @@ Album
 		* __idea:__ _ALL_ images stored on imgur and a subset of the better ones on facebook
 
 # Support
-simon wu (amakalf@gmail.com), david liu (davidbliu@gmail.com)
+Simon Wu (amakalf@gmail.com), david liu (davidbliu@gmail.com)
