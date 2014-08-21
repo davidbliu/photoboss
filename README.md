@@ -1,5 +1,5 @@
 # PhotoBoss
-PBL's own photo manager
+PBL's own cool photo manager
 
 # Overview
 
