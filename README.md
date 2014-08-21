@@ -14,7 +14,24 @@ Three stages:
 2. web application for filtering images (chairs do this)
 3. sync amazon filtered results with facebook/wordpress/whatever
 
+## web application
 
+database to store what images belong in what albums and whether they are good or bad.
+models look like this:
+
+```yaml
+Image
+	album
+	name (optional?)
+	s3_url
+Album
+	name
+	s3_url
+	other descriptors
+		semester
+		contributors
+		etc
+```
 
 # Getting Started
 
