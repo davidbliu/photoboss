@@ -3,6 +3,19 @@ PBL's own photo manager
 
 # Overview
 
+# Design Plan
+
+technology choices:
+amazon s3
+
+
+Three stages: 
+1. sync local filesystem with amazon s3
+2. web application for filtering images (chairs do this)
+3. sync amazon filtered results with facebook/wordpress/whatever
+
+
+
 # Getting Started
 
 # Motivation/Benefits of Reorganization
