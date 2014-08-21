@@ -48,3 +48,5 @@ Album
 	* one example where this is good: chairs can scrub through images and final-filter. 
 		* perhaps peer filtering
 		* __idea:__ _ALL_ images stored on imgur and a subset of the better ones on facebook
+# Support
+amakalf@gmail.com
